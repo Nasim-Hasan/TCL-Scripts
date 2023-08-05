@@ -1,0 +1,3 @@
+Country_Name	Capital	      Continent	        Population
+India	         Delhi	        Asia	           1.35B
+China	         Beijing	Asia	           1.50B
